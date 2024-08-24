@@ -7,7 +7,7 @@ This is a simple chrome extension that adds a download button to every youtube v
 1.Clone this repository
 
 ```git
-$ git clone
+$ git clone https://github.com/Sudip-Pathak/Google-Chrome-Extension-ForYt.git
 ```
 
 2.Open [chrome://extensions/](chrome://extensions/)
